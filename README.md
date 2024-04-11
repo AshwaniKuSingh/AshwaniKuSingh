@@ -31,5 +31,5 @@ ___
 ## Generative AI :robot:    
 | Title | Article | Repo |
 | --- | --- | --- |
-| Generative AI | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | - |
+| Generative AI | - | [:link:](https://github.com/AshwaniKuSingh/AudioTranslateRAGAudio) |
 ___
