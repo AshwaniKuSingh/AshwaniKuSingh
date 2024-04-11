@@ -26,3 +26,10 @@
 18. [Writing Tips](#writing-tips)
 
 **Projects with :star: are my personal favourites, so do check them out!**
+___
+<a name="generative-ai"></a>
+## Generative AI :robot:    
+| Title | Article | Repo |
+| --- | --- | --- |
+| Generative AI | [:link:](https://www.linkedin.com/feed/update/urn:li:activity:7031533843429949440) | - |
+___
